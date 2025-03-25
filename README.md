@@ -38,7 +38,7 @@
     ↓ جهت پایین: حرکت به پایین
 
     ESC یا دکمه بستن پنجره: خروج از بازی
-
+```bash
 git clone https://github.com/mehrzero/Snake-Game.git
 cd snake-game-python
 
