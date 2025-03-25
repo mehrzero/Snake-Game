@@ -40,7 +40,7 @@
     ESC یا دکمه بستن پنجره: خروج از بازی
 ```bash
 git clone https://github.com/mehrzero/Snake-Game.git
-cd snake-game-python
+cd Snake-Game
 ----
 اجرای بازی:
 python snake.py
