@@ -38,3 +38,9 @@
     ↓ جهت پایین: حرکت به پایین
 
     ESC یا دکمه بستن پنجره: خروج از بازی
+
+git clone https://github.com/your-username/snake-game-python.git
+cd snake-game-python
+
+اجرای بازی:
+python snake.py
