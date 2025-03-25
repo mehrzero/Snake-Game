@@ -41,7 +41,6 @@
 ```bash
 git clone https://github.com/mehrzero/Snake-Game.git
 cd snake-game-python
-
+----
 اجرای بازی:
-```bash
 python snake.py
